@@ -13,7 +13,7 @@ namespace Electricity_Demand_Management_Sys
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("-----------------------------------------------------------------------");
             Console.WriteLine("                  Energy Demand Management System");
-            Console.WriteLine("             Data Structures and Algorithms-EE/EC3305");
+            Console.WriteLine("             Data Structures and Algorithms-EE/EC3202");
             Console.WriteLine("            Faculty Of Engineering,University Of Ruhuna");
             Console.WriteLine("-----------------------------------------------------------------------");
             Console.ResetColor();
